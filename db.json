@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "App": "Fast Roads",
+  "Autopromo": {
+    "google_play": "https://play.google.com/store/apps/details?id=com.racingcar.dakardesert",
+    "image": "https://image.winudf.com/v2/image1/Y29tLnJhY2luZ2Nhci5kYWthcmRlc2VydF9zY3JlZW5fMF8xNTQ5Nzg1MzA1XzAwMw/screen-0.jpg?h=800&fakeurl=1&type=.jpg"
   }
 }
